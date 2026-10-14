@@ -1,4 +1,6 @@
-# O vezbi Pull requestovi, git bash, git hub
+# O GITu/ GitHub-u
+
+## Pull requestovi, nove grane - new branches itd.
 
 - git bash
 - PR
