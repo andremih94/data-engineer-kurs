@@ -7,6 +7,7 @@
 - precice
 
 ### O kursu
+
 - sql
 - git hub/bash
 - data bricks radno okruzenje
